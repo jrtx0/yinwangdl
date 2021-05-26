@@ -1,4 +1,4 @@
-## yinblogdownloader
+## yinwangblogdl
 Download Yin Wang all blog and convert to pdf.
 
 

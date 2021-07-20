@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## yinwangdl
+Download Yin Wang all blog and convert to pdf.
 
-You can use the [editor on GitHub](https://github.com/jrtx0/yinwangdl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Usage
+* Get source code from Github:
+```
+https://github.com/jrtx0/YinBlogDownloader.git
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Run **crawler.py**：
+```
+  python3 crawler.py
+```
 
-### Jekyll Themes
+### PDFKit
+Please check [python-pdfkit](https://github.com/JazzCore/python-pdfkit) for the details.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jrtx0/yinwangdl/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contribute
+You are welcome to make code contributions.

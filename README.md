@@ -1,5 +1,5 @@
 ## yinwangdl
-Download Yin Wang all blog and convert to pdf.
+download Yin Wang all blog and convert to pdf.
 
 
 ### Usage

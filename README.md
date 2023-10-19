@@ -1,8 +1,6 @@
 # yinwangdl
 download Yin Wang all blog and convert to pdf.
 
-![yinwangdl](downloading.png)
-
 ## Dependency
 * wkhtmltopdf
 * python-pdfkit

@@ -1,5 +1,5 @@
 # yinwangdl
-download Yin Wang all blog and convert to pdf.
+Download Yin Wang all blog and convert to pdf.
 
 ## Dependency
 * wkhtmltopdf
@@ -11,7 +11,7 @@ sudo apt install wkhtmltopdf
 pip3 install pdfkit beautifulsoup4
 ```
 
-please check [python-pdfkit](https://github.com/JazzCore/python-pdfkit) for the details.
+Please check [python-pdfkit](https://github.com/JazzCore/python-pdfkit) for the details.
 
 ## Usage
 Run **crawler.py** files：

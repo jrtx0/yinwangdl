@@ -11,7 +11,7 @@ sudo apt install wkhtmltopdf
 pip3 install pdfkit beautifulsoup4
 ```
 
-Please check [python-pdfkit](https://github.com/JazzCore/python-pdfkit) for the details.
+please check [python-pdfkit](https://github.com/JazzCore/python-pdfkit) for the details.
 
 ## Usage
 Run **crawler.py** files：
